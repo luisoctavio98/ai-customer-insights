@@ -31,3 +31,7 @@ Optimized to make the most of Free Tiers (Google AI Studio) and Serverless pay-a
 
 5. **Git Discipline (Feature Branching):**
    * All development will be carried out under the assumption that the developer is on a `feature/*` branch. The AI must remember this context and never assume work is being done directly on `main`.
+
+6. **Master Plan Inviolability (Untouchable Blueprint):**
+   * The `PLAN.md` file is an untouchable master blueprint. The AI must never propose changes to or modify `PLAN.md`.
+   * All active AI documentation, action plans, and historical records must be modified strictly and exclusively within the `bitacora/` directory.
